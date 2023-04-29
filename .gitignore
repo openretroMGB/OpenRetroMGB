@@ -6,7 +6,7 @@ creative/
 # Eagle Stuff Until Public
 bom/        # bill of material
 dxf/        # drawing exchange format
-eagle/**/*  # source files
+eagle/    # source files
 gerber/     # manufacturing files
 lbr/        # library files
 pdf/        # pdf files for printing
