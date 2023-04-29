@@ -16,7 +16,7 @@
 - [x] Open source
 
 ## Gallery
-||Top|Bottom|
+|PCB|Top|Bottom|
 |--|--|--|
 |Mainboard|![Mainboard Top](assets/mainboard_top.png)|![Mainboard Bottom](assets/mainboard_bottom.png)|
 |RetroESP32|![RetroESP32 Top](assets/retro_cart_top.png)|![RetroESP32 Bottom](assets/retro_cart_bottom.png)|
