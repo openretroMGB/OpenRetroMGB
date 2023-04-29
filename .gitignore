@@ -12,6 +12,12 @@ lbr/        # library files
 pdf/        # pdf files for printing
 pnp/        # pick and place files
 
+# Eagle source files
+*.brd
+*.sch
+**/*.brd
+**/*.sch
+
 # These are the Eagle Backup files that are created locally
 *.b#*
 *.s#*
