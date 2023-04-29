@@ -11413,7 +11413,7 @@ Source: Kingbright .. 2_colour_led_.pdf</description>
 <vertex x="-1.5" y="0.35"/>
 </polygon>
 </package>
-<package name="CONDUCTIVE_BUTTON_MGB" urn="urn:adsk.eagle:footprint:40182449/1" library_version="28">
+<package name="CONDUCTIVE_BUTTON_MGB" urn="urn:adsk.eagle:footprint:40182449/1" locally_modified="yes" library_version="28" library_locally_modified="yes">
 <circle x="0" y="0" radius="4.25" width="0" layer="39"/>
 <circle x="0" y="0" radius="4.25" width="0.127" layer="51"/>
 <smd name="P$ACTIVE" x="-2.35" y="0" dx="4" dy="0.5" layer="1" rot="R270"/>
@@ -11789,7 +11789,7 @@ Reduced openings in tStop, pins spread a tiny bit out to hold part on PCB during
 <packageinstance name="CONDUCTIVE_BUTTON_DIRECTIONAL"/>
 </packageinstances>
 </package3d>
-<package3d name="CONDUCTIVE_BUTTON_MGB" urn="urn:adsk.eagle:package:40182450/1" type="box" library_version="28">
+<package3d name="CONDUCTIVE_BUTTON_MGB" urn="urn:adsk.eagle:package:40182450/1" type="box" library_version="28" library_locally_modified="yes">
 <packageinstances>
 <packageinstance name="CONDUCTIVE_BUTTON_MGB"/>
 </packageinstances>
@@ -12778,7 +12778,7 @@ Two pin, compact surface mount connector. Commonly used as a battery input conne
 </device>
 </devices>
 </deviceset>
-<deviceset name="CONDUCTIVE_BUTTON" urn="urn:adsk.eagle:component:12566939/10" library_version="28">
+<deviceset name="CONDUCTIVE_BUTTON" urn="urn:adsk.eagle:component:12566939/10" library_version="28" library_locally_modified="yes">
 <gates>
 <gate name="G$1" symbol="CONDUCTIVE_BUTTON" x="0" y="0"/>
 </gates>
