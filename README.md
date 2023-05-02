@@ -19,6 +19,7 @@
 |PCB|Top|Bottom|
 |--|--|--|
 |Mainboard|![Mainboard Top](assets/mainboard_top.png)|![Mainboard Bottom](assets/mainboard_bottom.png)|
+|Mainboard - Slotted|![Mainboard Top](assets/mainboard_slotted_top.png)|![Mainboard Bottom](assets/mainboard_slotted_bottom.png)|
 |RetroESP32|![RetroESP32 Top](assets/retro_cart_top.png)|![RetroESP32 Bottom](assets/retro_cart_bottom.png)|
 |DIY Blank|![DIY Top](assets/blank_cart_top.png)|![DIY Bottom](assets/blank_cart_bottom.png)|
 
