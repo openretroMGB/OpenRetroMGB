@@ -15,13 +15,15 @@
 - [x] Modular design
 - [x] Open source
 
+### Have your say
+
+Join our discussions. Cast your vote in our [polls](https://github.com/openretroMGB/OpenRetroMGB/discussions/categories/polls)
+
 ## Gallery
 |PCB|Top|Bottom|
 |--|--|--|
-|Mainboard|![Mainboard Top](assets/mainboard_top.png)|![Mainboard Bottom](assets/mainboard_bottom.png)|
-|Mainboard - Slotted|![Mainboard Top](assets/mainboard_slotted_top.png)|![Mainboard Bottom](assets/mainboard_slotted_bottom.png)|
+|Mainboard|![Mainboard Top](assets/mainboard_slotted_top.png)|![Mainboard Bottom](assets/mainboard_slotted_bottom.png)|
 |RetroESP32|![RetroESP32 Top](assets/retro_cart_top.png)|![RetroESP32 Bottom](assets/retro_cart_bottom.png)|
-|DIY Blank|![DIY Top](assets/blank_cart_top.png)|![DIY Bottom](assets/blank_cart_bottom.png)|
 
 ## Authors
 
@@ -39,7 +41,7 @@ This project is licensed under the Creative Commons Attribution Share Alike 4.0 
 
 Did you know, you can support us in a few way? We offer multiple sposorship tiers, with different rewards!
 
-Take a *look*. 
+Take a *look*.
 See what *fits*.
 
  [![Support](https://raw.githubusercontent.com/retro-esp32/RetroESP32/master/Assets/sponsor.jpg)](https://github.com/sponsors/retro-esp32)
