@@ -1,4 +1,4 @@
-Qty,Parts,Package,MPN,Purchase Link
+Qty,Designator,Package,MPN,Purchase Link
 3,"R6, R9, R10",0603-MINI,ERJ-PA3J103V,https://www.digikey.ca/en/products/detail/panasonic-electronic-components/ERJ-PA3J103V
 1,C6,0603-MINI-CAP,CL10A106MP8NNNC,https://www.digikey.ca/en/products/detail/samsung-electro-mechanics/CL10A106MP8NNNC/3887529
 1,C14,0603-MINI-CAP,CL10A105KP8NNNC,https://www.digikey.ca/en/products/detail/samsung-electro-mechanics/CL10A105KP8NNNC/3889268
