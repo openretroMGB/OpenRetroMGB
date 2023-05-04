@@ -10,7 +10,7 @@ Qty,Designator,Package,MPN,Purchase Link,Notes
 1,C7,0603-MINI-CAP,CL10C221JB8NFNC,https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL10C221JB8NFNC/3890321,
 2,"R16, R17",THUMBWHEEL,,https://www.aliexpress.com/item/1005005013077311.html,Alternate: https://www.aliexpress.com/item/1005004274957084.html
 1,R4,0603-MINI,CRGH0603J470R,https://www.digikey.com/en/products/detail/te-connectivity-passive-product/CRGH0603J470R/2385347,
-2,"R22, R24",0603-MINI,ERJ-3EKF5111V,https://www.digikey.ca/en/products/detail/panasonic-electronic-components/ERJ-3EKF5111V/198416,
+4,"R6, R7, R22, R24",0603-MINI,ERJ-3EKF5111V,https://www.digikey.ca/en/products/detail/panasonic-electronic-components/ERJ-3EKF5111V/198416,
 1,J1,AUDIO-JACK-KIT,SJ1-3525NG,https://www.digikey.com/en/products/detail/cui-devices/SJ1-3525NG/738690,
 1,Q3,SOT23-R,DMP2045U-7,https://www.digikey.com/en/products/detail/diodes-incorporated/DMP2045U-7/8275359,
 1,U$2,GB-CARTRIDGE-SLOT-2,,https://www.aliexpress.com/item/1005004188119429.html?spm=a2g0o.order_list.order_list_main.16.21ef1802Y6F1M0,
