@@ -4,15 +4,14 @@
 creative/
 
 # Eagle Stuff Until Public
-bom/        # bill of material
-dxf/        # drawing exchange format
-eagle/      # source files
-gerber/     # manufacturing files
-lbr/        # library files
-pdf/        # pdf files for printing
-pnp/        # pick and place files
+dxf/
+eagle/
+gerber/
+lbr/
+pdf/
+pnp/
 
-# Eagle source files
+
 *.brd
 *.sch
 **/*.brd

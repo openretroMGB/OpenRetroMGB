@@ -20,10 +20,10 @@
 Join our discussions. Cast your vote in our [polls](https://github.com/openretroMGB/OpenRetroMGB/discussions/categories/polls)
 
 ## Gallery
-|PCB|Top|Bottom|
-|--|--|--|
-|Mainboard|![Mainboard Top](assets/mainboard_slotted_top.png)|![Mainboard Bottom](assets/mainboard_slotted_bottom.png)|
-|RetroESP32|![RetroESP32 Top](assets/retro_cart_top.png)|![RetroESP32 Bottom](assets/retro_cart_bottom.png)|
+|PCB|Top|Bottom|Bill of Material|Shopping List|Purchase Link|
+|--|--|--|--|--|
+|Mainboard|![Mainboard Top](assets/mainboard_slotted_top.png)|![Mainboard Bottom](assets/mainboard_slotted_bottom.png)|[CSV File](bom/mainboard/mainboard-pass-thru.csv)|[Digi-Key](https://www.digikey.ca/en/mylists/list/RC883BGXUL)|
+|RetroESP32|![RetroESP32 Top](assets/retro_cart_top.png)|![RetroESP32 Bottom](assets/retro_cart_bottom.png)|[CSV File](bom/carts/RetroESP32/RetroESP32.csv)|[Digi-Key](https://www.digikey.ca/en/mylists/list/0N7987H54F)|
 
 ## Authors
 
