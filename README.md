@@ -22,8 +22,11 @@ Join our discussions. Cast your vote in our [polls](https://github.com/openretro
 
 ## Gallery
 
+#### Retro ESP32 Cart
+![Retro ESP32](assets/retroesp32.png)
+
 #### Arduino *ATmega32U4* Cart
-![USB](assets/arduino.png)
+![Arduino](assets/arduino.png)
 
 #### USB C Data Lines
 ![USB](assets/usb-c.png)
