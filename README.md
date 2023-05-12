@@ -21,12 +21,11 @@
 Join our discussions. Cast your vote in our [polls](https://github.com/openretroMGB/OpenRetroMGB/discussions/categories/polls)
 
 ## Gallery
-|PCB|Top|Bottom|Bill of Material|Purchase Link|
-|--|--|--|--|--|
-|Mainboard|![Mainboard Top](assets/mainboard_top.png)|![Mainboard Bottom](assets/mainboard_bottom.png)|[CSV File](bom/mainboard/mainboard-pass-thru.csv)|[Digi-Key](https://www.digikey.ca/en/mylists/list/RC883BGXUL)|
-|RetroESP32|![RetroESP32 Top](assets/retro_cart_top.png)|![RetroESP32 Bottom](assets/retro_cart_bottom.png)|[CSV File](bom/carts/RetroESP32/RetroESP32.csv)|[Digi-Key](https://www.digikey.ca/en/mylists/list/0N7987H54F)|
 
-### USB C Data Lines
+#### Arduino *ATmega32U4* Cart
+![USB](assets/arduino.png)
+
+#### USB C Data Lines
 ![USB](assets/usb-c.png)
 
 # What will you build?
