@@ -1,21 +1,16 @@
-Qty,Value,Designator,Package,MPN
-2,0.1uF,"C1, C3",0603-MINI-CAP,Please Find
-3,1.0uF,"C5, C6, C10",0603-MINI-CAP,Please Find
-1,10k,R2,0603-MINI,Please Find
-2,10uF,"C7, C8",0603-MINI-CAP,Please Find
-1,16MHz,X3,NX5032,Please Find
-3,1k,"R4, R6, R11",0603-MINI,Please Find
-2,22pF,"C2, C4",0603-MINI-CAP,Please Find
-1,3.3V,U1,SOT23-5,Please Find
-1,32U4,U3,TQFP44,Please Find
-1,3A/10V/280mV,D2,SOD-323,Please Find
-4,5.1K,"R1, R7, R22, R24",0603-MINI,ERJ-PA3F5101V
-1,6V 0.5A,F1,805,Please Find
-1,AVR_SPI_PRG_6PTH,ISP6,2X3,Please Find
-1,GBA_CARTLARGE,U$2,GBCART,Please Find
-1,GREEN,D3,CHIPLED_0603,Please Find
-1,OPENRETROMGB,U$1,OPENRETROMBG,Please Find
-1,RED,LED1,CHIPLED_0603,Please Find
-1,Reset,S1,TACTILE_SWITCH_SMD_4.6X2.8MM,Please Find
-1,USB4110-GF-A_REVB,J6,GCT_USB4110-GF-A_REVB,USB4110-GF-A
-1,Yellow,D1,CHIPLED_0603,Please Find
+Qty,Designator,Package,MPN,Purchase Link
+2,"C1, C3",0603-MINI,CL10B104KB8NNNC,https://www.digikey.ca/en/products/detail/samsung-electro-mechanics/CL10B104KB8NNNC/3886658
+3,"C5, C6, C10",0603-MINI-CAP,CL10A105KP8NNNC,https://www.digikey.ca/en/products/detail/samsung-electro-mechanics/CL10A105KP8NNNC/3886840
+1,R2,0603-MINI,ERJ-PA3J103V,https://www.digikey.ca/en/products/detail/panasonic-electronic-components/ERJ-PA3J103V/5035971
+2,"C7, C8",0603-MINI-CAP,CL10A106MP8NNNC,https://www.digikey.ca/en/products/detail/samsung-electro-mechanics/CL10A106MP8NNNC/3887529
+1,X3,NX5032,NX5032GA-16.000000MHZ-LN-CD-1,https://www.digikey.ca/en/products/detail/ndk-america-inc/NX5032GA-16-000000MHZ-LN-CD-1/1128819
+3,"R4, R6, R11",0603-MINI,CRGH0603J1K0,https://www.digikey.ca/en/products/detail/te-connectivity-passive-product/CRGH0603J1K0/2385355
+2,"C2, C4",0603-MINI-CAP,CL10C220JB81PNC,https://www.digikey.ca/en/products/detail/samsung-electro-mechanics/CL10C220JB81PNC/3887884
+1,U1,SOT23-5,AP2112K-3.3TRG1,https://www.digikey.ca/en/products/detail/diodes-incorporated/AP2112K-3-3TRG1/4470746
+1,U3,TQFP44,ATMEGA32U4RC-AU,https://www.digikey.ca/en/products/detail/microchip-technology/ATMEGA32U4RC-AU/2507982
+1,D2,SOD-323,"PMEG1030EJ,115",https://www.digikey.ca/en/products/detail/nexperia-usa-inc/PMEG1030EJ-115/1157660
+4,"R1, R7, R22, R24",0603-MINI,ERJ-PA3F5101V,https://www.digikey.ca/en/products/detail/panasonic-electronic-components/ERJ-PA3F5101V/5035934
+1,F1,1206,PTS12066V050,https://www.digikey.ca/en/products/detail/eaton-electronics-division/PTS12066V050/2639136
+3,"D1, D3, LED1",CHIPLED_0603,SML-LX0603GW-TR,https://www.digikey.ca/en/products/detail/lumex-opto-components-inc/SML-LX0603GW-TR/304359
+1,S1,TACTILE_SWITCH_SMD_4.6X2.8MM,KMR221GLFS,https://www.digikey.ca/en/products/detail/c-k/KMR221GLFS/550472
+1,J6,GCT_USB4110-GF-A_REVB,USB4110-GF-A,https://www.digikey.ca/en/products/detail/gct/USB4110-GF-A/10384547
