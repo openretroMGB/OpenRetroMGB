@@ -34,6 +34,15 @@ Join our discussions. Cast your vote in our [polls](https://github.com/openretro
 # What will you build?
 ![What will you build?](assets/blank_cart_option.png)
 
+## Trusted Creators
+> Celebrating 10 Years
+
+![Splash](assets/tenyears.png)
+
+Over the past 10 years, we have proudly established ourselves as a trusted creator and innovator in the realm of handheld retro gaming. From our early ventures with Arduino and Atmega microcontrollers to our exploration of cutting-edge technologies like ESP32 and Raspberry Pi, our journey has been driven by a relentless pursuit of innovation. With each step, we have strived to enhance the gaming experience for retro enthusiasts. Our Game Boy Pocket PCB embodies our dedication to quality, reliability, and creativity. It represents a culmination of years of expertise, resulting in a product that seamlessly blends the nostalgia of classic gaming with the power and possibilities of modern technology. As we celebrate this milestone, we extend our gratitude to our loyal customers and supporters, who have played an instrumental role in our growth and success. Looking ahead, we remain committed to pushing boundaries, embracing new advancements, and delivering unforgettable gaming experiences to enthusiasts around the world.
+
+
+
 ## Authors
 
 * **Eugene Yevhen Andruszczenko** - *Initial and Ongoing Work* - [32teeth](https://github.com/32teeth)
