@@ -3,7 +3,7 @@ var pcbdata =  {
     "protocol_version": 2,
     "ecad": "EAGLE",
     "company": "",
-    "project_name": "mainboard",
+    "project_name": "OpenRetroMGB - Mainboard",
     "revision": "",
     "date": "2023-05-19 03:02:06",
     "number_parts": {
