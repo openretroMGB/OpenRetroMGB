@@ -5,6 +5,10 @@
 
 **OpenretroMGB** is a new open-source ***M***odular ***G***aming ***B***oard designed for gamers and hobbyists alike. Based on the popular Retro ESP32, this compact and portable board is compatible with Game Boy Pocket form factor and allows customers to either use the prebuilt ESP32 cartridge or design their own. With an easy-to-use modular design, gamers can customize their gaming experience by swapping out cartridges that feature different games or hardware functionalities. OpenretroMGB offers an affordable and accessible way to create and enjoy retro-style games with modern features, making it perfect for enthusiasts, hobbyists, and anyone looking for a fun, retro gaming experience.
 
+**OpenretroMGB** is certified unde Open Source Hardware as OSHWA UID [CA000028](https://certification.oshwa.org/ca000028.html) with CC-BY-SA-4.0 licensing
+
+![Open Source](assets/opensource.png)
+
 ## Features
 - [x] Cartridge slot
 - [x] 2.6" daylight IPS screen
