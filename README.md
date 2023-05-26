@@ -66,6 +66,6 @@ Did you know, you can support us in a few way? We offer multiple sposorship tier
 Take a *look*.
 See what *fits*.
 
- [![Support](https://raw.githubusercontent.com/retro-esp32/RetroESP32/master/Assets/sponsor.jpg)](https://github.com/sponsors/retro-esp32)
+ [![Support](https://raw.githubusercontent.com/retro-esp32/RetroESP32/master/Assets/sponsor.jpg)](https://github.com/sponsors/openretroMGB)
 
 **Thank You**
