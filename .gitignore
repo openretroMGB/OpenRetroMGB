@@ -1,10 +1,12 @@
 .DS_Store
 
+**/*
+
 # Creative file
 creative/
 
 # Eagle Stuff Until Public
-eagle/
+# eagle/
 gerber/
 lbr/
 pdf/
@@ -27,6 +29,13 @@ pnp/
 **/*.s#*
 
 # release files
+!eagle/
+!eagle/carts/
+!eagle/carts/Atmega32U4/
 !eagle/carts/Atmega32U4/Atmega32U4.sch
 !eagle/carts/Atmega32U4/Atmega32U4.brd
+!gerber/
+!gerber/carts/
+!gerber/carts/Atmega32U4/
+!gerber/carts/Atmega32U4/Atmega32U4.zip
 
