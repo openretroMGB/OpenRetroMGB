@@ -25,3 +25,8 @@ pnp/
 *.s#*
 **/*.b#*
 **/*.s#*
+
+# release files
+!eagle/carts/Atmega32U4/Atmega32U4.sch
+!eagle/carts/Atmega32U4/Atmega32U4.brd
+
