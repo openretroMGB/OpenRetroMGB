@@ -34,8 +34,13 @@ pnp/
 !eagle/carts/Atmega32U4/
 !eagle/carts/Atmega32U4/Atmega32U4.sch
 !eagle/carts/Atmega32U4/Atmega32U4.brd
+!eagle/carts/RetroESP32/
+!eagle/carts/RetroESP32/RetroESP32.sch
+!eagle/carts/RetroESP32/RetroESP32.brd
 !gerber/
 !gerber/carts/
 !gerber/carts/Atmega32U4/
 !gerber/carts/Atmega32U4/Atmega32U4.zip
+!gerber/carts/RetroESP32/
+!gerber/carts/RetroESP32/RetroESP32.zip
 
