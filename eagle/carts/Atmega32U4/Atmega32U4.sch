@@ -8,34 +8,34 @@
 </settings>
 <grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
-<layer number="1" name="Top" color="4" fill="1" visible="yes" active="no"/>
-<layer number="2" name="Route2" color="16" fill="1" visible="yes" active="no"/>
-<layer number="3" name="Route3" color="4" fill="3" visible="yes" active="no"/>
-<layer number="4" name="Route4" color="1" fill="4" visible="yes" active="no"/>
-<layer number="5" name="Route5" color="4" fill="4" visible="yes" active="no"/>
-<layer number="6" name="Route6" color="1" fill="8" visible="yes" active="no"/>
-<layer number="7" name="Route7" color="4" fill="8" visible="yes" active="no"/>
-<layer number="8" name="Route8" color="1" fill="2" visible="yes" active="no"/>
-<layer number="9" name="Route9" color="4" fill="2" visible="yes" active="no"/>
-<layer number="10" name="Route10" color="1" fill="7" visible="yes" active="no"/>
-<layer number="11" name="Route11" color="4" fill="7" visible="yes" active="no"/>
-<layer number="12" name="Route12" color="1" fill="5" visible="yes" active="no"/>
-<layer number="13" name="Route13" color="4" fill="5" visible="yes" active="no"/>
-<layer number="14" name="Route14" color="1" fill="6" visible="yes" active="no"/>
-<layer number="15" name="Route15" color="23" fill="1" visible="yes" active="no"/>
-<layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="no"/>
-<layer number="17" name="Pads" color="2" fill="1" visible="yes" active="no"/>
-<layer number="18" name="Vias" color="2" fill="1" visible="yes" active="no"/>
-<layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="no"/>
-<layer number="20" name="Dimension" color="24" fill="1" visible="yes" active="no"/>
-<layer number="21" name="tPlace" color="7" fill="1" visible="yes" active="no"/>
-<layer number="22" name="bPlace" color="7" fill="1" visible="yes" active="no"/>
-<layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="no"/>
-<layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="no"/>
-<layer number="25" name="tNames" color="7" fill="1" visible="yes" active="no"/>
-<layer number="26" name="bNames" color="7" fill="1" visible="yes" active="no"/>
-<layer number="27" name="tValues" color="7" fill="1" visible="yes" active="no"/>
-<layer number="28" name="bValues" color="7" fill="1" visible="yes" active="no"/>
+<layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
+<layer number="2" name="Route2" color="16" fill="1" visible="no" active="no"/>
+<layer number="3" name="Route3" color="4" fill="3" visible="no" active="no"/>
+<layer number="4" name="Route4" color="1" fill="4" visible="no" active="no"/>
+<layer number="5" name="Route5" color="4" fill="4" visible="no" active="no"/>
+<layer number="6" name="Route6" color="1" fill="8" visible="no" active="no"/>
+<layer number="7" name="Route7" color="4" fill="8" visible="no" active="no"/>
+<layer number="8" name="Route8" color="1" fill="2" visible="no" active="no"/>
+<layer number="9" name="Route9" color="4" fill="2" visible="no" active="no"/>
+<layer number="10" name="Route10" color="1" fill="7" visible="no" active="no"/>
+<layer number="11" name="Route11" color="4" fill="7" visible="no" active="no"/>
+<layer number="12" name="Route12" color="1" fill="5" visible="no" active="no"/>
+<layer number="13" name="Route13" color="4" fill="5" visible="no" active="no"/>
+<layer number="14" name="Route14" color="1" fill="6" visible="no" active="no"/>
+<layer number="15" name="Route15" color="23" fill="1" visible="no" active="no"/>
+<layer number="16" name="Bottom" color="1" fill="1" visible="no" active="no"/>
+<layer number="17" name="Pads" color="2" fill="1" visible="no" active="no"/>
+<layer number="18" name="Vias" color="2" fill="1" visible="no" active="no"/>
+<layer number="19" name="Unrouted" color="6" fill="1" visible="no" active="no"/>
+<layer number="20" name="Dimension" color="24" fill="1" visible="no" active="no"/>
+<layer number="21" name="tPlace" color="7" fill="1" visible="no" active="no"/>
+<layer number="22" name="bPlace" color="7" fill="1" visible="no" active="no"/>
+<layer number="23" name="tOrigins" color="15" fill="1" visible="no" active="no"/>
+<layer number="24" name="bOrigins" color="15" fill="1" visible="no" active="no"/>
+<layer number="25" name="tNames" color="7" fill="1" visible="no" active="no"/>
+<layer number="26" name="bNames" color="7" fill="1" visible="no" active="no"/>
+<layer number="27" name="tValues" color="7" fill="1" visible="no" active="no"/>
+<layer number="28" name="bValues" color="7" fill="1" visible="no" active="no"/>
 <layer number="29" name="tStop" color="7" fill="3" visible="no" active="no"/>
 <layer number="30" name="bStop" color="7" fill="6" visible="no" active="no"/>
 <layer number="31" name="tCream" color="7" fill="4" visible="no" active="no"/>
@@ -44,8 +44,8 @@
 <layer number="34" name="bFinish" color="6" fill="6" visible="no" active="no"/>
 <layer number="35" name="tGlue" color="7" fill="4" visible="no" active="no"/>
 <layer number="36" name="bGlue" color="7" fill="5" visible="no" active="no"/>
-<layer number="37" name="tTest" color="7" fill="1" visible="yes" active="no"/>
-<layer number="38" name="bTest" color="7" fill="1" visible="yes" active="no"/>
+<layer number="37" name="tTest" color="7" fill="1" visible="no" active="no"/>
+<layer number="38" name="bTest" color="7" fill="1" visible="no" active="no"/>
 <layer number="39" name="tKeepout" color="4" fill="11" visible="no" active="no"/>
 <layer number="40" name="bKeepout" color="1" fill="11" visible="no" active="no"/>
 <layer number="41" name="tRestrict" color="4" fill="10" visible="no" active="no"/>
@@ -53,20 +53,20 @@
 <layer number="43" name="vRestrict" color="2" fill="10" visible="no" active="no"/>
 <layer number="44" name="Drills" color="7" fill="1" visible="no" active="no"/>
 <layer number="45" name="Holes" color="7" fill="1" visible="no" active="no"/>
-<layer number="46" name="Milling" color="3" fill="1" visible="yes" active="no"/>
-<layer number="47" name="Measures" color="7" fill="1" visible="yes" active="no"/>
-<layer number="48" name="Document" color="7" fill="1" visible="yes" active="no"/>
-<layer number="49" name="Reference" color="7" fill="1" visible="yes" active="no"/>
-<layer number="50" name="dxf" color="7" fill="1" visible="yes" active="no"/>
-<layer number="51" name="tDocu" color="7" fill="1" visible="yes" active="no"/>
-<layer number="52" name="bDocu" color="7" fill="1" visible="yes" active="no"/>
-<layer number="53" name="tGND_GNDA" color="7" fill="9" visible="yes" active="no"/>
-<layer number="54" name="bGND_GNDA" color="1" fill="9" visible="yes" active="no"/>
-<layer number="56" name="wert" color="7" fill="1" visible="yes" active="no"/>
-<layer number="57" name="tCAD" color="7" fill="1" visible="yes" active="no"/>
-<layer number="58" name="b3D" color="7" fill="1" visible="yes" active="no"/>
-<layer number="59" name="tCarbon" color="7" fill="1" visible="yes" active="no"/>
-<layer number="60" name="bCarbon" color="7" fill="1" visible="yes" active="no"/>
+<layer number="46" name="Milling" color="3" fill="1" visible="no" active="no"/>
+<layer number="47" name="Measures" color="7" fill="1" visible="no" active="no"/>
+<layer number="48" name="Document" color="7" fill="1" visible="no" active="no"/>
+<layer number="49" name="Reference" color="7" fill="1" visible="no" active="no"/>
+<layer number="50" name="dxf" color="7" fill="1" visible="no" active="no"/>
+<layer number="51" name="tDocu" color="7" fill="1" visible="no" active="no"/>
+<layer number="52" name="bDocu" color="7" fill="1" visible="no" active="no"/>
+<layer number="53" name="tGND_GNDA" color="7" fill="9" visible="no" active="no"/>
+<layer number="54" name="bGND_GNDA" color="1" fill="9" visible="no" active="no"/>
+<layer number="56" name="wert" color="7" fill="1" visible="no" active="no"/>
+<layer number="57" name="tCAD" color="7" fill="1" visible="no" active="no"/>
+<layer number="58" name="b3D" color="7" fill="1" visible="no" active="no"/>
+<layer number="59" name="tCarbon" color="7" fill="1" visible="no" active="no"/>
+<layer number="60" name="bCarbon" color="7" fill="1" visible="no" active="no"/>
 <layer number="88" name="SimResults" color="9" fill="1" visible="no" active="yes"/>
 <layer number="89" name="SimProbes" color="9" fill="1" visible="yes" active="yes"/>
 <layer number="90" name="Modules" color="5" fill="1" visible="yes" active="yes"/>
@@ -1405,6 +1405,44 @@ by exp-lbrs.ulp</description>
 <text x="-0.762" y="-1.27" size="0.8128" layer="25" ratio="18" rot="R90">&gt;NAME</text>
 <text x="1.27" y="-1.27" size="0.4064" layer="27" ratio="10" rot="R90">&gt;VALUE</text>
 </package>
+<package name="SOD-123" urn="urn:adsk.eagle:footprint:12566883/2" library_version="34" library_locally_modified="yes">
+<description>&lt;b&gt;SOD-123&lt;/b&gt;
+&lt;p&gt;Source: http://www.diodes.com/datasheets/ds30139.pdf&lt;/p&gt;</description>
+<wire x1="-0.873" y1="0.7" x2="0.873" y2="0.7" width="0.2032" layer="21"/>
+<wire x1="0.873" y1="0.7" x2="0.873" y2="-0.7" width="0.2032" layer="51"/>
+<wire x1="0.873" y1="-0.7" x2="-0.873" y2="-0.7" width="0.2032" layer="21"/>
+<wire x1="-0.873" y1="-0.7" x2="-0.873" y2="0.7" width="0.2032" layer="51"/>
+<wire x1="-0.3" y1="0" x2="0.3" y2="0.4" width="0.2032" layer="21"/>
+<wire x1="0.3" y1="0.4" x2="0.3" y2="-0.4" width="0.2032" layer="21"/>
+<wire x1="0.3" y1="-0.4" x2="-0.3" y2="0" width="0.2032" layer="21"/>
+<rectangle x1="-1.723" y1="-0.45" x2="-0.973" y2="0.4" layer="51"/>
+<rectangle x1="0.973" y1="-0.45" x2="1.723" y2="0.4" layer="51"/>
+<rectangle x1="-0.5" y1="-0.5" x2="-0.3" y2="0.5" layer="21"/>
+<smd name="A" x="1.85" y="0" dx="1.4" dy="1.4" layer="1" rot="R90"/>
+<smd name="C" x="-1.85" y="0" dx="1.4" dy="1.4" layer="1" rot="R90"/>
+<text x="-1.27" y="1.016" size="0.8128" layer="25" ratio="18">&gt;NAME</text>
+<text x="-1.27" y="-1.778" size="0.4064" layer="27" ratio="10">&gt;VALUE</text>
+</package>
+<package name="SOT23-R" urn="urn:adsk.eagle:footprint:12566884/1" library_version="34" library_locally_modified="yes">
+<description>&lt;b&gt;SOT23&lt;/b&gt; - Reflow soldering</description>
+<wire x1="1.5724" y1="0.6604" x2="1.5724" y2="-0.6604" width="0.1524" layer="51"/>
+<wire x1="1.5724" y1="-0.6604" x2="-1.5724" y2="-0.6604" width="0.1524" layer="51"/>
+<wire x1="-1.5724" y1="-0.6604" x2="-1.5724" y2="0.6604" width="0.1524" layer="51"/>
+<wire x1="-1.5724" y1="0.6604" x2="1.5724" y2="0.6604" width="0.2032" layer="51"/>
+<wire x1="-1.5724" y1="-0.6524" x2="-1.5724" y2="0.6604" width="0.2032" layer="21"/>
+<wire x1="-1.5724" y1="0.6604" x2="-0.5636" y2="0.6604" width="0.2032" layer="21"/>
+<wire x1="1.5724" y1="0.6604" x2="1.5724" y2="-0.6524" width="0.2032" layer="21"/>
+<wire x1="0.5636" y1="0.6604" x2="1.5724" y2="0.6604" width="0.2032" layer="21"/>
+<wire x1="0.3724" y1="-0.6604" x2="-0.3864" y2="-0.6604" width="0.2032" layer="21"/>
+<rectangle x1="-0.2286" y1="0.7112" x2="0.2286" y2="1.2954" layer="51"/>
+<rectangle x1="0.7112" y1="-1.2954" x2="1.1684" y2="-0.7112" layer="51"/>
+<rectangle x1="-1.1684" y1="-1.2954" x2="-0.7112" y2="-0.7112" layer="51"/>
+<smd name="1" x="-0.95" y="-1" dx="0.635" dy="1.016" layer="1"/>
+<smd name="2" x="0.95" y="-1" dx="0.635" dy="1.016" layer="1"/>
+<smd name="3" x="0" y="1" dx="0.635" dy="1.016" layer="1"/>
+<text x="1.778" y="-0.127" size="0.8128" layer="25" ratio="18">&gt;NAME</text>
+<text x="1.778" y="-0.635" size="0.4064" layer="27" ratio="10">&gt;VALUE</text>
+</package>
 </packages>
 <packages3d>
 <package3d name="OPENRETROMBG" urn="urn:adsk.eagle:package:40215486/1" type="empty" library_version="29" library_locally_modified="yes">
@@ -1430,6 +1468,19 @@ by exp-lbrs.ulp</description>
 <description>&lt;b&gt;CHIPLED 0603&lt;/b&gt;</description>
 <packageinstances>
 <packageinstance name="CHIPLED_0603"/>
+</packageinstances>
+</package3d>
+<package3d name="SOD-123" urn="urn:adsk.eagle:package:12566924/3" type="model" library_version="34" library_locally_modified="yes">
+<description>&lt;b&gt;SOD-123&lt;/b&gt;
+&lt;p&gt;Source: http://www.diodes.com/datasheets/ds30139.pdf&lt;/p&gt;</description>
+<packageinstances>
+<packageinstance name="SOD-123"/>
+</packageinstances>
+</package3d>
+<package3d name="SOT23-R" urn="urn:adsk.eagle:package:12566923/2" type="model" library_version="34" library_locally_modified="yes">
+<description>&lt;b&gt;SOT23&lt;/b&gt; - Reflow soldering</description>
+<packageinstances>
+<packageinstance name="SOT23-R"/>
 </packageinstances>
 </package3d>
 </packages3d>
@@ -1484,6 +1535,19 @@ by exp-lbrs.ulp</description>
 <pin name="C" x="2.54" y="0" visible="off" length="short" direction="pas" rot="R180"/>
 <text x="-5.08" y="3.175" size="1.27" layer="95">&gt;NAME</text>
 <text x="-5.08" y="-2.794" size="1.27" layer="96">&gt;VALUE</text>
+</symbol>
+<symbol name="DIODE-SCHOTTKY" urn="urn:adsk.eagle:symbol:12566869/1" library_version="34" library_locally_modified="yes">
+<wire x1="-1.27" y1="1.27" x2="-1.27" y2="-1.27" width="0.254" layer="94"/>
+<wire x1="-1.27" y1="-1.27" x2="1.27" y2="0" width="0.254" layer="94"/>
+<wire x1="1.27" y1="0" x2="-1.27" y2="1.27" width="0.254" layer="94"/>
+<wire x1="1.27" y1="1.27" x2="1.27" y2="0" width="0.254" layer="94"/>
+<wire x1="1.27" y1="0" x2="1.27" y2="-1.27" width="0.254" layer="94"/>
+<wire x1="1.27" y1="-1.27" x2="1.778" y2="-1.27" width="0.254" layer="94"/>
+<wire x1="1.27" y1="1.27" x2="0.762" y2="1.27" width="0.254" layer="94"/>
+<pin name="A" x="-2.54" y="0" visible="off" length="short" direction="pas"/>
+<pin name="C" x="2.54" y="0" visible="off" length="short" direction="pas" rot="R180"/>
+<text x="0" y="2.54" size="1.27" layer="95" align="center">&gt;NAME</text>
+<text x="0" y="-2.5" size="1.27" layer="96" align="center">&gt;VALUE</text>
 </symbol>
 </symbols>
 <devicesets>
@@ -1632,6 +1696,37 @@ by exp-lbrs.ulp</description>
 </connects>
 <package3dinstances>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:12566907/3"/>
+</package3dinstances>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+</devices>
+</deviceset>
+<deviceset name="DIODE-SCHOTTKY" urn="urn:adsk.eagle:component:12566953/3" prefix="D" uservalue="yes" library_version="34" library_locally_modified="yes">
+<gates>
+<gate name="G$1" symbol="DIODE-SCHOTTKY" x="0" y="0"/>
+</gates>
+<devices>
+<device name="SOD-123" package="SOD-123">
+<connects>
+<connect gate="G$1" pin="A" pad="A"/>
+<connect gate="G$1" pin="C" pad="C"/>
+</connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:12566924/3"/>
+</package3dinstances>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="SOT23_REFLOW" package="SOT23-R">
+<connects>
+<connect gate="G$1" pin="A" pad="1"/>
+<connect gate="G$1" pin="C" pad="3"/>
+</connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:12566923/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3883,233 +3978,6 @@ You are welcome to use this library for commercial purposes. For attribution, we
 </deviceset>
 </devicesets>
 </library>
-<library name="SparkFun-DiscreteSemi">
-<description>&lt;h3&gt;SparkFun Discrete Semiconductors&lt;/h3&gt;
-This library contains diodes, optoisolators, TRIACs, MOSFETs, transistors, etc. 
-&lt;br&gt;
-&lt;br&gt;
-We've spent an enormous amount of time creating and checking these footprints and parts, but it is &lt;b&gt; the end user's responsibility&lt;/b&gt; to ensure correctness and suitablity for a given componet or application. 
-&lt;br&gt;
-&lt;br&gt;If you enjoy using this library, please buy one of our products at &lt;a href=" www.sparkfun.com"&gt;SparkFun.com&lt;/a&gt;.
-&lt;br&gt;
-&lt;br&gt;
-&lt;b&gt;Licensing:&lt;/b&gt; Creative Commons ShareAlike 4.0 International - https://creativecommons.org/licenses/by-sa/4.0/ 
-&lt;br&gt;
-&lt;br&gt;
-You are welcome to use this library for commercial purposes. For attribution, we ask that when you begin to sell your device using our footprint, you email us with a link to the product being sold. We want bragging rights that we helped (in a very small part) to create your 8th world wonder. We would like the opportunity to feature your device on our homepage.</description>
-<packages>
-<package name="SOD-323">
-<description>SOD-323 (Small Outline Diode)</description>
-<wire x1="-1.77" y1="0.625" x2="-1.77" y2="-0.625" width="0.2032" layer="21"/>
-<smd name="C" x="-1.15" y="0" dx="0.63" dy="0.83" layer="1"/>
-<smd name="A" x="1.15" y="0" dx="0.63" dy="0.83" layer="1"/>
-<text x="0" y="0.762" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center">&gt;NAME</text>
-<text x="0" y="-0.762" size="0.6096" layer="27" font="vector" ratio="20" align="top-center">&gt;VALUE</text>
-<wire x1="-0.9" y1="0.625" x2="0.9" y2="0.625" width="0.2032" layer="21"/>
-<wire x1="-0.9" y1="-0.625" x2="0.9" y2="-0.625" width="0.2032" layer="21"/>
-</package>
-<package name="SOD-523">
-<description>SOD-523 (Small Outline Diode)</description>
-<smd name="C" x="0.7" y="0" dx="0.4" dy="0.4" layer="1"/>
-<smd name="A" x="-0.7" y="0" dx="0.4" dy="0.4" layer="1"/>
-<wire x1="-0.625" y1="-0.425" x2="0.625" y2="-0.425" width="0.2032" layer="21"/>
-<wire x1="0.625" y1="0.425" x2="-0.625" y2="0.425" width="0.2032" layer="21"/>
-<wire x1="-0.6" y1="-0.4" x2="0.3" y2="-0.4" width="0.127" layer="51"/>
-<wire x1="0.3" y1="-0.4" x2="0.6" y2="-0.4" width="0.127" layer="51"/>
-<wire x1="0.6" y1="-0.4" x2="0.6" y2="-0.1" width="0.127" layer="51"/>
-<wire x1="0.6" y1="-0.1" x2="0.6" y2="0.1" width="0.127" layer="51"/>
-<wire x1="0.6" y1="0.1" x2="0.6" y2="0.4" width="0.127" layer="51"/>
-<wire x1="0.6" y1="0.4" x2="0.3" y2="0.4" width="0.127" layer="51"/>
-<wire x1="0.3" y1="0.4" x2="-0.6" y2="0.4" width="0.127" layer="51"/>
-<wire x1="-0.6" y1="0.4" x2="-0.6" y2="0.1" width="0.127" layer="51"/>
-<wire x1="-0.6" y1="0.1" x2="-0.6" y2="-0.1" width="0.127" layer="51"/>
-<wire x1="-0.6" y1="-0.1" x2="-0.6" y2="-0.4" width="0.127" layer="51"/>
-<wire x1="0.6" y1="0.1" x2="0.8" y2="0.1" width="0.127" layer="51"/>
-<wire x1="0.8" y1="0.1" x2="0.8" y2="-0.1" width="0.127" layer="51"/>
-<wire x1="0.8" y1="-0.1" x2="0.6" y2="-0.1" width="0.127" layer="51"/>
-<wire x1="-0.6" y1="-0.1" x2="-0.8" y2="-0.1" width="0.127" layer="51"/>
-<wire x1="-0.6" y1="0.1" x2="-0.8" y2="0.1" width="0.127" layer="51"/>
-<wire x1="-0.8" y1="0.1" x2="-0.8" y2="-0.1" width="0.127" layer="51"/>
-<wire x1="0.3" y1="0.4" x2="0.3" y2="-0.4" width="0.127" layer="51"/>
-<wire x1="1.1176" y1="0.3048" x2="1.1176" y2="-0.3048" width="0.2032" layer="21"/>
-</package>
-<package name="SMA-DIODE">
-<description>&lt;B&gt;Diode&lt;/B&gt;
-&lt;p&gt;Basic SMA packaged diode. Good for reverse polarization protection. Common part #: MBRA140&lt;/p&gt;
-&lt;p&gt;SMA is the smallest package in the DO-214 standard (DO-214AC)&lt;/p&gt;</description>
-<wire x1="-2.3" y1="1" x2="-2.3" y2="1.45" width="0.2032" layer="21"/>
-<wire x1="-2.3" y1="1.45" x2="2.3" y2="1.45" width="0.2032" layer="21"/>
-<wire x1="2.3" y1="1.45" x2="2.3" y2="1" width="0.2032" layer="21"/>
-<wire x1="2.3" y1="-1" x2="2.3" y2="-1.45" width="0.2032" layer="21"/>
-<wire x1="2.3" y1="-1.45" x2="-2.3" y2="-1.45" width="0.2032" layer="21"/>
-<wire x1="-2.3" y1="-1.45" x2="-2.3" y2="-1" width="0.2032" layer="21"/>
-<wire x1="3.175" y1="1" x2="3.175" y2="-1" width="0.2032" layer="21"/>
-<smd name="A" x="-2.15" y="0" dx="1.27" dy="1.47" layer="1" rot="R180"/>
-<smd name="C" x="2.15" y="0" dx="1.27" dy="1.47" layer="1"/>
-<text x="0" y="1.651" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center">&gt;NAME</text>
-<text x="0" y="-1.651" size="0.6096" layer="27" font="vector" ratio="20" align="top-center">&gt;VALUE</text>
-</package>
-<package name="SOT23-3">
-<description>SOT23-3</description>
-<wire x1="1.4224" y1="0.6604" x2="1.4224" y2="-0.6604" width="0.1524" layer="51"/>
-<wire x1="1.4224" y1="-0.6604" x2="-1.4224" y2="-0.6604" width="0.1524" layer="51"/>
-<wire x1="-1.4224" y1="-0.6604" x2="-1.4224" y2="0.6604" width="0.1524" layer="51"/>
-<wire x1="-1.4224" y1="0.6604" x2="1.4224" y2="0.6604" width="0.1524" layer="51"/>
-<wire x1="-0.8" y1="0.7" x2="-1.4" y2="0.7" width="0.2032" layer="21"/>
-<wire x1="-1.4" y1="0.7" x2="-1.4" y2="-0.1" width="0.2032" layer="21"/>
-<wire x1="0.8" y1="0.7" x2="1.4" y2="0.7" width="0.2032" layer="21"/>
-<wire x1="1.4" y1="0.7" x2="1.4" y2="-0.1" width="0.2032" layer="21"/>
-<smd name="1" x="-0.95" y="-1" dx="0.8" dy="0.9" layer="1"/>
-<smd name="2" x="0.95" y="-1" dx="0.8" dy="0.9" layer="1"/>
-<smd name="3" x="0" y="1.1" dx="0.8" dy="0.9" layer="1"/>
-<text x="-1.651" y="0" size="0.6096" layer="25" font="vector" ratio="20" rot="R90" align="bottom-center">&gt;NAME</text>
-<text x="1.651" y="0" size="0.6096" layer="27" font="vector" ratio="20" rot="R90" align="top-center">&gt;VALUE</text>
-</package>
-<package name="DIODE-MICRO-SMP">
-<wire x1="-1.3462" y1="0.4572" x2="-1.3462" y2="-0.4572" width="0.1524" layer="51"/>
-<wire x1="1.3462" y1="-0.381" x2="1.3462" y2="0.381" width="0.1524" layer="51"/>
-<wire x1="-1.3462" y1="-0.7112" x2="1.3462" y2="-0.7112" width="0.1524" layer="51"/>
-<wire x1="1.3462" y1="-0.7112" x2="1.3462" y2="0.7112" width="0.1524" layer="51"/>
-<wire x1="1.3462" y1="0.7112" x2="-1.3462" y2="0.7112" width="0.1524" layer="51"/>
-<wire x1="-1.3462" y1="0.7112" x2="-1.3462" y2="-0.7112" width="0.1524" layer="51"/>
-<smd name="C" x="-0.6985" y="0" dx="2.0066" dy="1.102359375" layer="1"/>
-<smd name="A" x="1.2192" y="0" dx="0.8128" dy="0.8128" layer="1"/>
-<text x="0" y="1.016" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center">&gt;Name</text>
-<text x="0" y="-1.6002" size="0.6096" layer="27" font="vector" ratio="20" align="bottom-center">&gt;Value</text>
-<wire x1="-2.0574" y1="-0.6096" x2="-2.0574" y2="0.5842" width="0.127" layer="21"/>
-</package>
-</packages>
-<symbols>
-<symbol name="DIODE-SCHOTTKY">
-<description>&lt;h3&gt; Schottky Diode&lt;/h3&gt;
-Diode with low voltage drop</description>
-<wire x1="1.27" y1="1.27" x2="1.27" y2="0" width="0.1524" layer="94"/>
-<wire x1="1.27" y1="0" x2="1.27" y2="-1.27" width="0.1524" layer="94"/>
-<wire x1="1.27" y1="1.27" x2="1.778" y2="1.27" width="0.1524" layer="94"/>
-<wire x1="1.27" y1="-1.27" x2="0.762" y2="-1.27" width="0.1524" layer="94"/>
-<text x="-2.54" y="2.032" size="1.778" layer="95" font="vector">&gt;NAME</text>
-<text x="-2.54" y="-2.032" size="1.778" layer="96" font="vector" align="top-left">&gt;VALUE</text>
-<pin name="A" x="-2.54" y="0" visible="off" length="point" direction="pas"/>
-<pin name="C" x="2.54" y="0" visible="off" length="point" direction="pas" rot="R180"/>
-<wire x1="-2.54" y1="0" x2="-1.27" y2="0" width="0.1524" layer="94"/>
-<wire x1="2.54" y1="0" x2="1.27" y2="0" width="0.1524" layer="94"/>
-<wire x1="0.762" y1="-1.27" x2="0.762" y2="-1.016" width="0.1524" layer="94"/>
-<wire x1="1.778" y1="1.27" x2="1.778" y2="1.016" width="0.1524" layer="94"/>
-<polygon width="0.1524" layer="94">
-<vertex x="-1.27" y="1.27"/>
-<vertex x="1.27" y="0"/>
-<vertex x="-1.27" y="-1.27"/>
-</polygon>
-</symbol>
-</symbols>
-<devicesets>
-<deviceset name="DIODE-SCHOTTKY" prefix="D" uservalue="yes">
-<description>&lt;h3&gt;Schottky diode&lt;/h3&gt;
-&lt;p&gt;A Schottky diode is a semiconductor diode which has a low forward voltage drop and a very fast switching action.&lt;/p&gt;</description>
-<gates>
-<gate name="G$1" symbol="DIODE-SCHOTTKY" x="0" y="0"/>
-</gates>
-<devices>
-<device name="-BAT20J" package="SOD-323">
-<connects>
-<connect gate="G$1" pin="A" pad="A"/>
-<connect gate="G$1" pin="C" pad="C"/>
-</connects>
-<technologies>
-<technology name="">
-<attribute name="PROD_ID" value="DIO-11623"/>
-<attribute name="VALUE" value="1A/23V/620mV"/>
-</technology>
-</technologies>
-</device>
-<device name="-RB751S40" package="SOD-523">
-<connects>
-<connect gate="G$1" pin="A" pad="A"/>
-<connect gate="G$1" pin="C" pad="C"/>
-</connects>
-<technologies>
-<technology name="">
-<attribute name="PROD_ID" value="DIO-11018"/>
-<attribute name="VALUE" value="120mA/40V/370mV"/>
-</technology>
-</technologies>
-</device>
-<device name="-SS14" package="SMA-DIODE">
-<connects>
-<connect gate="G$1" pin="A" pad="A"/>
-<connect gate="G$1" pin="C" pad="C"/>
-</connects>
-<technologies>
-<technology name="">
-<attribute name="PROD_ID" value="DIO-08053"/>
-<attribute name="VALUE" value="1A/40V/500mV"/>
-</technology>
-</technologies>
-</device>
-<device name="-PMEG4005EJ" package="SOD-323">
-<connects>
-<connect gate="G$1" pin="A" pad="A"/>
-<connect gate="G$1" pin="C" pad="C"/>
-</connects>
-<technologies>
-<technology name="">
-<attribute name="PROD_ID" value="DIO-10955"/>
-<attribute name="VALUE" value="0.5A/40V/420mV"/>
-</technology>
-</technologies>
-</device>
-<device name="-B340A" package="SMA-DIODE">
-<connects>
-<connect gate="G$1" pin="A" pad="A"/>
-<connect gate="G$1" pin="C" pad="C"/>
-</connects>
-<technologies>
-<technology name="">
-<attribute name="PROD_ID" value="DIO-09886"/>
-<attribute name="VALUE" value="3A/40V/500mV"/>
-</technology>
-</technologies>
-</device>
-<device name="-ZLLS500" package="SOT23-3">
-<connects>
-<connect gate="G$1" pin="A" pad="1"/>
-<connect gate="G$1" pin="C" pad="3"/>
-</connects>
-<technologies>
-<technology name="">
-<attribute name="PROD_ID" value="DIO-08411"/>
-<attribute name="VALUE" value="700mA/40V/533mV"/>
-</technology>
-</technologies>
-</device>
-<device name="-MSS1P6-M3/89A" package="DIODE-MICRO-SMP">
-<connects>
-<connect gate="G$1" pin="A" pad="A"/>
-<connect gate="G$1" pin="C" pad="C"/>
-</connects>
-<technologies>
-<technology name="">
-<attribute name="PROD_ID" value="DIO-13919" constant="no"/>
-<attribute name="VALUE" value="1A/60V/520mV" constant="no"/>
-</technology>
-</technologies>
-</device>
-<device name="-BAT60A" package="SOD-323">
-<connects>
-<connect gate="G$1" pin="A" pad="A"/>
-<connect gate="G$1" pin="C" pad="C"/>
-</connects>
-<technologies>
-<technology name="">
-<attribute name="PROD_ID" value="DIO-14072"/>
-<attribute name="VALUE" value="3A/10V/280mV"/>
-</technology>
-</technologies>
-</device>
-</devices>
-</deviceset>
-</devicesets>
-</library>
 <library name="SparkFun-IC-Microcontroller">
 <description>&lt;h3&gt;SparkFun Microcontrollers&lt;/h3&gt;
 This library contains microcontrollers.
@@ -5518,7 +5386,9 @@ This is the reduced ISP connector for AVR programming. Common on Arduino. This f
 <part name="R4" library="RetroESP32" library_urn="urn:adsk.eagle:library:12566846" deviceset="RESISTOR" device="0603MINI" package3d_urn="urn:adsk.eagle:package:12566926/2" value="1k"/>
 <part name="D1" library="RetroESP32" library_urn="urn:adsk.eagle:library:12566846" deviceset="LED" device="0603" package3d_urn="urn:adsk.eagle:package:12566907/3" value="Yellow"/>
 <part name="F1" library="SparkFun-Fuses" deviceset="PPTC" device="_6V500MA-2" value="6V/0.5A"/>
-<part name="D2" library="SparkFun-DiscreteSemi" deviceset="DIODE-SCHOTTKY" device="-BAT60A" value="3A/10V/280mV"/>
+<part name="D2" library="RetroESP32" library_urn="urn:adsk.eagle:library:12566846" deviceset="DIODE-SCHOTTKY" device="SOD-123" package3d_urn="urn:adsk.eagle:package:12566924/3" value="3A/10V/280mV">
+<attribute name="MPN" value="MBR120LSFT1G"/>
+</part>
 <part name="GND2" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
 <part name="GND3" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
 <part name="GND4" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
@@ -5611,11 +5481,11 @@ This is the reduced ISP connector for AVR programming. Common on Arduino. This f
 <instance part="C6" gate="G$1" x="76.2" y="20.32" smashed="yes" rot="R180">
 <attribute name="NAME" x="77.216" y="20.447" size="1.778" layer="95"/>
 </instance>
-<instance part="R4" gate="G$1" x="185.42" y="33.02" smashed="yes" rot="R270">
-<attribute name="NAME" x="186.9186" y="36.83" size="1.778" layer="95" rot="R270"/>
+<instance part="R4" gate="G$1" x="193.04" y="33.02" smashed="yes" rot="R270">
+<attribute name="NAME" x="194.5386" y="36.83" size="1.778" layer="95" rot="R270"/>
 </instance>
-<instance part="D1" gate="G$1" x="185.42" y="22.86" smashed="yes" rot="R90">
-<attribute name="NAME" x="185.674" y="17.018" size="1.778" layer="95"/>
+<instance part="D1" gate="G$1" x="193.04" y="22.86" smashed="yes" rot="R90">
+<attribute name="NAME" x="193.294" y="17.018" size="1.778" layer="95"/>
 </instance>
 <instance part="F1" gate="F1" x="20.32" y="104.14" smashed="yes">
 <attribute name="NAME" x="17.78" y="107.188" size="1.778" layer="95"/>
@@ -5623,7 +5493,7 @@ This is the reduced ISP connector for AVR programming. Common on Arduino. This f
 </instance>
 <instance part="D2" gate="G$1" x="35.56" y="104.14" smashed="yes">
 <attribute name="NAME" x="38.1" y="104.6226" size="1.778" layer="95"/>
-<attribute name="VALUE" x="32.258" y="107.442" size="1.778" layer="96"/>
+<attribute name="MPN" x="35.56" y="104.14" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="GND2" gate="1" x="134.62" y="35.56" smashed="yes">
 <attribute name="VALUE" x="134.62" y="35.306" size="1.778" layer="96" align="top-center"/>
@@ -6048,8 +5918,8 @@ This is the reduced ISP connector for AVR programming. Common on Arduino. This f
 </net>
 <net name="RXLED" class="0">
 <segment>
-<wire x1="172.72" y1="53.34" x2="185.42" y2="53.34" width="0.1524" layer="91"/>
-<wire x1="185.42" y1="53.34" x2="185.42" y2="38.1" width="0.1524" layer="91"/>
+<wire x1="172.72" y1="53.34" x2="193.04" y2="53.34" width="0.1524" layer="91"/>
+<wire x1="193.04" y1="53.34" x2="193.04" y2="38.1" width="0.1524" layer="91"/>
 <pinref part="U3" gate="U1" pin="PB0(SS)"/>
 <pinref part="R4" gate="G$1" pin="1"/>
 </segment>
@@ -6071,7 +5941,7 @@ This is the reduced ISP connector for AVR programming. Common on Arduino. This f
 </net>
 <net name="N$5" class="0">
 <segment>
-<wire x1="185.42" y1="25.4" x2="185.42" y2="27.94" width="0.1524" layer="91"/>
+<wire x1="193.04" y1="25.4" x2="193.04" y2="27.94" width="0.1524" layer="91"/>
 <pinref part="R4" gate="G$1" pin="2"/>
 <pinref part="D1" gate="G$1" pin="C"/>
 </segment>
@@ -6143,9 +6013,9 @@ This is the reduced ISP connector for AVR programming. Common on Arduino. This f
 <label x="175.26" y="15.24" size="1.27" layer="95" rot="R270" xref="yes"/>
 </segment>
 <segment>
-<wire x1="185.42" y1="15.24" x2="185.42" y2="17.78" width="0.1524" layer="91"/>
+<wire x1="193.04" y1="15.24" x2="193.04" y2="17.78" width="0.1524" layer="91"/>
 <pinref part="D1" gate="G$1" pin="A"/>
-<label x="185.42" y="15.24" size="1.27" layer="95" rot="R270" xref="yes"/>
+<label x="193.04" y="15.24" size="1.27" layer="95" rot="R270" xref="yes"/>
 </segment>
 <segment>
 <pinref part="U3" gate="U1" pin="VCC@14"/>
