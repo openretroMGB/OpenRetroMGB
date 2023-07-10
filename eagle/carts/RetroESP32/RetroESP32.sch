@@ -2385,7 +2385,7 @@ CONN_06
 <wire x1="0" y1="9" x2="0" y2="61" width="0.127" layer="20"/>
 <wire x1="0" y1="61" x2="46" y2="61" width="0.127" layer="20"/>
 <wire x1="46" y1="61" x2="46" y2="58" width="0.127" layer="20"/>
-<smd name="1" x="2.07" y="4" dx="1.5" dy="6.5" layer="1"/>
+<smd name="1" x="2.07" y="4" dx="1.5" dy="7" layer="1"/>
 <smd name="2" x="3.8031625" y="4" dx="1" dy="7" layer="1"/>
 <smd name="3" x="5.299221875" y="4" dx="1" dy="7" layer="1"/>
 <smd name="4" x="6.79528125" y="4" dx="1" dy="7" layer="1"/>
@@ -2416,7 +2416,7 @@ CONN_06
 <smd name="29" x="44.19678125" y="4" dx="1" dy="7" layer="1"/>
 <smd name="30" x="45.69284375" y="4" dx="1" dy="7" layer="1"/>
 <smd name="31" x="47.188903125" y="4" dx="1" dy="7" layer="1"/>
-<smd name="32" x="48.9" y="4" dx="1.5" dy="6.5" layer="1"/>
+<smd name="32" x="48.9" y="4" dx="1.5" dy="7" layer="1"/>
 <text x="1" y="8" size="1.27" layer="21">1</text>
 <text x="48" y="8" size="1.27" layer="21">32</text>
 <hole x="25.5" y="16" drill="8"/>

@@ -1819,38 +1819,38 @@ by exp-lbrs.ulp</description>
 <wire x1="0" y1="9" x2="0" y2="61" width="0.127" layer="20"/>
 <wire x1="0" y1="61" x2="46" y2="61" width="0.127" layer="20"/>
 <wire x1="46" y1="61" x2="46" y2="58" width="0.127" layer="20"/>
-<smd name="1" x="2" y="4" dx="1.5" dy="6" layer="1"/>
-<smd name="2" x="3.75" y="4" dx="1" dy="6" layer="1"/>
-<smd name="3" x="5.25" y="4" dx="1" dy="6" layer="1"/>
-<smd name="4" x="6.75" y="4" dx="1" dy="6" layer="1"/>
-<smd name="5" x="8.25" y="4" dx="1" dy="6" layer="1"/>
-<smd name="6" x="9.75" y="4" dx="1" dy="6" layer="1"/>
-<smd name="7" x="11.25" y="4" dx="1" dy="6" layer="1"/>
-<smd name="8" x="12.75" y="4" dx="1" dy="6" layer="1"/>
-<smd name="9" x="14.25" y="4" dx="1" dy="6" layer="1"/>
-<smd name="10" x="15.75" y="4" dx="1" dy="6" layer="1"/>
-<smd name="11" x="17.25" y="4" dx="1" dy="6" layer="1"/>
-<smd name="12" x="18.75" y="4" dx="1" dy="6" layer="1"/>
-<smd name="13" x="20.25" y="4" dx="1" dy="6" layer="1"/>
-<smd name="14" x="21.75" y="4" dx="1" dy="6" layer="1"/>
-<smd name="15" x="23.25" y="4" dx="1" dy="6" layer="1"/>
-<smd name="16" x="24.75" y="4" dx="1" dy="6" layer="1"/>
-<smd name="17" x="26.25" y="4" dx="1" dy="6" layer="1"/>
-<smd name="18" x="27.75" y="4" dx="1" dy="6" layer="1"/>
-<smd name="19" x="29.25" y="4" dx="1" dy="6" layer="1"/>
-<smd name="20" x="30.75" y="4" dx="1" dy="6" layer="1"/>
-<smd name="21" x="32.25" y="4" dx="1" dy="6" layer="1"/>
-<smd name="22" x="33.75" y="4" dx="1" dy="6" layer="1"/>
-<smd name="23" x="35.25" y="4" dx="1" dy="6" layer="1"/>
-<smd name="24" x="36.75" y="4" dx="1" dy="6" layer="1"/>
-<smd name="25" x="38.25" y="4" dx="1" dy="6" layer="1"/>
-<smd name="26" x="39.75" y="4" dx="1" dy="6" layer="1"/>
-<smd name="27" x="41.25" y="4" dx="1" dy="6" layer="1"/>
-<smd name="28" x="42.75" y="4" dx="1" dy="6" layer="1"/>
-<smd name="29" x="44.25" y="4" dx="1" dy="6" layer="1"/>
-<smd name="30" x="45.75" y="4" dx="1" dy="6" layer="1"/>
-<smd name="31" x="47.25" y="4" dx="1" dy="6" layer="1"/>
-<smd name="32" x="49" y="4" dx="1.5" dy="6" layer="1"/>
+<smd name="1" x="2.07" y="4" dx="1.5" dy="7" layer="1"/>
+<smd name="2" x="3.8031625" y="4" dx="1" dy="7" layer="1"/>
+<smd name="3" x="5.299221875" y="4" dx="1" dy="7" layer="1"/>
+<smd name="4" x="6.79528125" y="4" dx="1" dy="7" layer="1"/>
+<smd name="5" x="8.29134375" y="4" dx="1" dy="7" layer="1"/>
+<smd name="6" x="9.787403125" y="4" dx="1" dy="7" layer="1"/>
+<smd name="7" x="11.2834625" y="4" dx="1" dy="7" layer="1"/>
+<smd name="8" x="12.779521875" y="4" dx="1" dy="7" layer="1"/>
+<smd name="9" x="14.27558125" y="4" dx="1" dy="7" layer="1"/>
+<smd name="10" x="15.77164375" y="4" dx="1" dy="7" layer="1"/>
+<smd name="11" x="17.267703125" y="4" dx="1" dy="7" layer="1"/>
+<smd name="12" x="18.7637625" y="4" dx="1" dy="7" layer="1"/>
+<smd name="13" x="20.259821875" y="4" dx="1" dy="7" layer="1"/>
+<smd name="14" x="21.75588125" y="4" dx="1" dy="7" layer="1"/>
+<smd name="15" x="23.25194375" y="4" dx="1" dy="7" layer="1"/>
+<smd name="16" x="24.748003125" y="4" dx="1" dy="7" layer="1"/>
+<smd name="17" x="26.2440625" y="4" dx="1" dy="7" layer="1"/>
+<smd name="18" x="27.740121875" y="4" dx="1" dy="7" layer="1"/>
+<smd name="19" x="29.23618125" y="4" dx="1" dy="7" layer="1"/>
+<smd name="20" x="30.73224375" y="4" dx="1" dy="7" layer="1"/>
+<smd name="21" x="32.228303125" y="4" dx="1" dy="7" layer="1"/>
+<smd name="22" x="33.7243625" y="4" dx="1" dy="7" layer="1"/>
+<smd name="23" x="35.220421875" y="4" dx="1" dy="7" layer="1"/>
+<smd name="24" x="36.71648125" y="4" dx="1" dy="7" layer="1"/>
+<smd name="25" x="38.21254375" y="4" dx="1" dy="7" layer="1"/>
+<smd name="26" x="39.708603125" y="4" dx="1" dy="7" layer="1"/>
+<smd name="27" x="41.2046625" y="4" dx="1" dy="7" layer="1"/>
+<smd name="28" x="42.700721875" y="4" dx="1" dy="7" layer="1"/>
+<smd name="29" x="44.19678125" y="4" dx="1" dy="7" layer="1"/>
+<smd name="30" x="45.69284375" y="4" dx="1" dy="7" layer="1"/>
+<smd name="31" x="47.188903125" y="4" dx="1" dy="7" layer="1"/>
+<smd name="32" x="48.9" y="4" dx="1.5" dy="7" layer="1"/>
 <text x="1" y="8" size="1.27" layer="21">1</text>
 <text x="48" y="8" size="1.27" layer="21">32</text>
 <hole x="25.5" y="16" drill="8"/>
@@ -5067,18 +5067,18 @@ You are welcome to use this library for commercial purposes. For attribution, we
 </deviceset>
 </devicesets>
 </library>
-<library name="supply1">
+<library name="supply1" urn="urn:adsk.eagle:library:371">
 <packages>
 </packages>
 <symbols>
-<symbol name="GND">
+<symbol name="GND" urn="urn:adsk.eagle:symbol:26925/1" library_version="1">
 <wire x1="-1.905" y1="0" x2="1.905" y2="0" width="0.254" layer="94"/>
 <text x="-2.54" y="-2.54" size="1.778" layer="96">&gt;VALUE</text>
 <pin name="GND" x="0" y="2.54" visible="off" length="short" direction="sup" rot="R270"/>
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="GND" prefix="GND">
+<deviceset name="GND" urn="urn:adsk.eagle:component:26954/1" prefix="GND" library_version="1">
 <description>&lt;b&gt;SUPPLY SYMBOL&lt;/b&gt;</description>
 <gates>
 <gate name="1" symbol="GND" x="0" y="0"/>
@@ -5431,7 +5431,7 @@ This is the reduced ISP connector for AVR programming. Common on Arduino. This f
 <part name="X3" library="adaprog" deviceset="XTAL" device="NX5032" value="16MHz"/>
 <part name="GND19" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
 <part name="ISP6" library="SparkFun-Connectors" deviceset="AVR_SPI_PRG_6" device="PTH" value="AVR_SPI_PRG_6PTH"/>
-<part name="GND20" library="supply1" deviceset="GND" device=""/>
+<part name="GND20" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 </parts>
 <sheets>
 <sheet>

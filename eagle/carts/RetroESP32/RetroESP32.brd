@@ -1614,7 +1614,7 @@ CONN_06
 <wire x1="0" y1="9" x2="0" y2="61" width="0.127" layer="20"/>
 <wire x1="0" y1="61" x2="46" y2="61" width="0.127" layer="20"/>
 <wire x1="46" y1="61" x2="46" y2="58" width="0.127" layer="20"/>
-<smd name="1" x="2.07" y="4" dx="1.5" dy="6.5" layer="1"/>
+<smd name="1" x="2.07" y="4" dx="1.5" dy="7" layer="1"/>
 <smd name="2" x="3.8031625" y="4" dx="1" dy="7" layer="1"/>
 <smd name="3" x="5.299221875" y="4" dx="1" dy="7" layer="1"/>
 <smd name="4" x="6.79528125" y="4" dx="1" dy="7" layer="1"/>
@@ -1645,7 +1645,7 @@ CONN_06
 <smd name="29" x="44.19678125" y="4" dx="1" dy="7" layer="1"/>
 <smd name="30" x="45.69284375" y="4" dx="1" dy="7" layer="1"/>
 <smd name="31" x="47.188903125" y="4" dx="1" dy="7" layer="1"/>
-<smd name="32" x="48.9" y="4" dx="1.5" dy="6.5" layer="1"/>
+<smd name="32" x="48.9" y="4" dx="1.5" dy="7" layer="1"/>
 <text x="1" y="8" size="1.27" layer="21">1</text>
 <text x="48" y="8" size="1.27" layer="21">32</text>
 <hole x="25.5" y="16" drill="8"/>
@@ -3252,44 +3252,44 @@ design rules under a new name.</description>
 <mfgpreviewcolor name="substratecolor" color="0xFF786E46"/>
 </mfgpreviewcolors>
 <errors>
-<approved hash="4,1,046c58e1a57e7605"/>
-<approved hash="4,1,60a678993adfceea"/>
-<approved hash="4,1,55a8d9c5778f2173"/>
-<approved hash="4,1,b6afcac2608ca774"/>
-<approved hash="4,1,cbaa7fc7ed82517d"/>
-<approved hash="4,1,4ca2d0cf768f5379"/>
-<approved hash="4,1,a199c5f44b808942"/>
-<approved hash="4,1,f29476f9d492274b"/>
-<approved hash="4,1,578cebe141873957"/>
-<approved hash="4,1,e8831cee4a748b58"/>
-<approved hash="4,1,fd7e7113df8211a1"/>
-<approved hash="4,1,3e76a218a89757ad"/>
-<approved hash="4,1,d6f6020ebfa66667"/>
-<approved hash="4,1,936d17003580a1b6"/>
-<approved hash="4,1,f45808351eb203bf"/>
-<approved hash="4,1,0950bd32b38f498b"/>
-<approved hash="4,1,9a572e3a3c8d578c"/>
-<approved hash="4,1,df52433f09921995"/>
-<approved hash="4,1,304ab4249280ab91"/>
-<approved hash="4,1,8541292c67f3419a"/>
-<approved hash="4,1,263c5a51108207e4"/>
-<approved hash="4,1,3b354f5e9d9491ef"/>
-<approved hash="4,1,7c2be046668353f0"/>
-<approved hash="4,1,0eed9281b8825732"/>
-<approved hash="4,1,d126554bfbb229fd"/>
-<approved hash="4,1,221f4670c48087c5"/>
-<approved hash="4,1,4715fb78719339ce"/>
-<approved hash="4,1,02bdc10758a513c0"/>
-<approved hash="4,1,a1ecd7706cdcdab2"/>
-<approved hash="4,1,b8c432ea873f8fa2"/>
-<approved hash="4,1,79bfb5ccd1f9e4b9"/>
-<approved hash="4,1,bb206857d52171fd"/>
-<approved hash="4,1,63e4878885b7013f"/>
-<approved hash="4,1,84db38b62e84a300"/>
-<approved hash="4,1,19d7adbb8392a908"/>
-<approved hash="4,1,aacedea28c871715"/>
-<approved hash="4,1,afc533a819f0991e"/>
-<approved hash="4,1,00b1a4dde2824b66"/>
+<approved hash="4,1,6cabe9fdf46e566a"/>
+<approved hash="4,1,8224ffb3fc208afb"/>
+<approved hash="4,1,34ea95fd6bd9c6d5"/>
+<approved hash="4,1,7954f48707cc72be"/>
+<approved hash="4,1,276981486bf22134"/>
+<approved hash="4,1,9cba948bcf7157dc"/>
+<approved hash="4,1,0b21aad5dab48bd0"/>
+<approved hash="4,1,f11c30680797c7bf"/>
+<approved hash="4,1,fc6c27a67c077364"/>
+<approved hash="4,1,ab672c6971e6c518"/>
+<approved hash="4,1,c120032e41e38da1"/>
+<approved hash="4,1,8f9329cfe6015502"/>
+<approved hash="4,1,b5efbf0f0269fe12"/>
+<approved hash="4,1,6363c4caee5e32c9"/>
+<approved hash="4,1,d962da94427cce7e"/>
+<approved hash="4,1,4727e0cd67e14a06"/>
+<approved hash="4,1,0ca8571103c25e1b"/>
+<approved hash="4,1,3ae55dadffe38381"/>
+<approved hash="4,1,d76773e4e3174dab"/>
+<approved hash="4,1,1d7c59aac7748d47"/>
+<approved hash="4,1,f05e5347ff424a77"/>
+<approved hash="4,1,c4a96f6a6757d2e8"/>
+<approved hash="4,1,b317f53233316145"/>
+<approved hash="4,1,aae807512df50b69"/>
+<approved hash="4,1,79bfb5d7173a86a8"/>
+<approved hash="4,1,37922d7509cb716f"/>
+<approved hash="4,1,3e53b90a034789c9"/>
+<approved hash="4,1,e6364b4de5e55391"/>
+<approved hash="4,1,54bf5191b5a6a789"/>
+<approved hash="4,1,ca9360282de38b70"/>
+<approved hash="4,1,b811fe641c715759"/>
+<approved hash="4,1,be6efc27e471c2d1"/>
+<approved hash="4,1,20ef040151ac141a"/>
+<approved hash="4,1,6ece770fa695a558"/>
+<approved hash="4,1,04978735a11d05a0"/>
+<approved hash="4,1,89c1de10f0a2c665"/>
+<approved hash="4,1,5dc9af309cd2cf1e"/>
+<approved hash="4,1,0de041b26496953f"/>
 </errors>
 </board>
 </drawing>
