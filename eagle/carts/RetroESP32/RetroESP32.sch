@@ -3680,6 +3680,13 @@ CONN_06
 <label x="58.42" y="55.88" size="1.016" layer="95" xref="yes"/>
 </segment>
 </net>
+<net name="GPIO36" class="0">
+<segment>
+<pinref part="U$2" gate="G$1" pin="AD0"/>
+<wire x1="53.34" y1="91.44" x2="55.88" y2="91.44" width="0.1524" layer="91"/>
+<label x="58.42" y="91.44" size="1.016" layer="95" xref="yes"/>
+</segment>
+</net>
 </nets>
 </sheet>
 <sheet>

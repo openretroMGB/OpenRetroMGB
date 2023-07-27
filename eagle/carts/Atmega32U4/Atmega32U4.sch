@@ -5422,11 +5422,11 @@ This is the reduced ISP connector for AVR programming. Common on Arduino. This f
 <part name="R22" library="RetroESP32" library_urn="urn:adsk.eagle:library:12566846" deviceset="RESISTOR" device="0603MINI" package3d_urn="urn:adsk.eagle:package:12566926/2" override_package3d_urn="urn:adsk.eagle:package:12547690/2" override_package_urn="urn:adsk.eagle:footprint:12547691/1" override_locally_modified="yes" value="5.1K">
 <attribute name="MPN" value="ERJ-PA3F5101V"/>
 </part>
-<part name="R1" library="RetroESP32" library_urn="urn:adsk.eagle:library:12566846" deviceset="RESISTOR" device="0603MINI" package3d_urn="urn:adsk.eagle:package:12566926/2" override_package3d_urn="urn:adsk.eagle:package:12547690/2" override_package_urn="urn:adsk.eagle:footprint:12547691/1" override_locally_modified="yes" value="5.1K">
-<attribute name="MPN" value="ERJ-PA3F5101V"/>
+<part name="R1" library="RetroESP32" library_urn="urn:adsk.eagle:library:12566846" deviceset="RESISTOR" device="0603MINI" package3d_urn="urn:adsk.eagle:package:12566926/2" override_package3d_urn="urn:adsk.eagle:package:12547690/2" override_package_urn="urn:adsk.eagle:footprint:12547691/1" override_locally_modified="yes" value="22">
+<attribute name="MPN" value="ERJ-3EKF22R0V"/>
 </part>
-<part name="R7" library="RetroESP32" library_urn="urn:adsk.eagle:library:12566846" deviceset="RESISTOR" device="0603MINI" package3d_urn="urn:adsk.eagle:package:12566926/2" override_package3d_urn="urn:adsk.eagle:package:12547690/2" override_package_urn="urn:adsk.eagle:footprint:12547691/1" override_locally_modified="yes" value="5.1K">
-<attribute name="MPN" value="ERJ-PA3F5101V"/>
+<part name="R7" library="RetroESP32" library_urn="urn:adsk.eagle:library:12566846" deviceset="RESISTOR" device="0603MINI" package3d_urn="urn:adsk.eagle:package:12566926/2" override_package3d_urn="urn:adsk.eagle:package:12547690/2" override_package_urn="urn:adsk.eagle:footprint:12547691/1" override_locally_modified="yes" value="22">
+<attribute name="MPN" value="ERJ-3EKF22R0V"/>
 </part>
 <part name="X3" library="adaprog" deviceset="XTAL" device="NX5032" value="16MHz"/>
 <part name="GND19" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
@@ -5980,6 +5980,11 @@ This is the reduced ISP connector for AVR programming. Common on Arduino. This f
 <wire x1="53.34" y1="33.02" x2="58.42" y2="33.02" width="0.1524" layer="91"/>
 <label x="60.96" y="33.02" size="1.27" layer="95" xref="yes"/>
 </segment>
+<segment>
+<wire x1="76.2" y1="50.038" x2="73.66" y2="50.038" width="0.1524" layer="91"/>
+<pinref part="ISP6" gate="G$1" pin="2"/>
+<label x="71.12" y="49.784" size="1.27" layer="95" rot="R180" xref="yes"/>
+</segment>
 </net>
 <net name="UCAP" class="0">
 <segment>
@@ -6025,6 +6030,7 @@ This is the reduced ISP connector for AVR programming. Common on Arduino. This f
 <wire x1="137.16" y1="104.14" x2="134.62" y2="104.14" width="0.1524" layer="91"/>
 <wire x1="134.62" y1="104.14" x2="134.62" y2="106.68" width="0.1524" layer="91"/>
 <junction x="134.62" y="106.68"/>
+<label x="134.62" y="109.22" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
 <pinref part="C10" gate="G$1" pin="2"/>
@@ -6035,11 +6041,6 @@ This is the reduced ISP connector for AVR programming. Common on Arduino. This f
 <pinref part="C3" gate="G$1" pin="2"/>
 <wire x1="116.84" y1="25.4" x2="116.84" y2="22.86" width="0.1524" layer="91"/>
 <label x="116.84" y="25.4" size="1.27" layer="95" rot="R90" xref="yes"/>
-</segment>
-<segment>
-<wire x1="76.2" y1="50.038" x2="73.66" y2="50.038" width="0.1524" layer="91"/>
-<pinref part="ISP6" gate="G$1" pin="2"/>
-<label x="71.12" y="49.784" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
 <wire x1="121.92" y1="116.84" x2="121.92" y2="114.3" width="0.1524" layer="91"/>
