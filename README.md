@@ -1,4 +1,4 @@
-![Splash](assets/splash.png)
+![Splash](https://raw.githubusercontent.com/openretroMGB/OpenRetroMGB/main/assets/splash.png)
 > Get ready to elevate your retro gaming experience with **OpenretroMGB** - the open-source, modular gaming board that lets you customize your gameplay. Our upcoming campaign will offer exclusive rewards and perks, so don't miss out on your chance to join the retro gaming revolution. Stay tuned for more details and be part of the community that's bringing back the best of the past with the power of the future!
 
 ## Overview
@@ -7,7 +7,7 @@
 
 **OpenretroMGB** is certified unde Open Source Hardware as OSHWA UID [CA000028](https://certification.oshwa.org/ca000028.html) with CC-BY-SA-4.0 licensing
 
-![Open Source](assets/opensource.png)
+![Open Source](https://raw.githubusercontent.com/openretroMGB/OpenRetroMGB/main/assets/opensource.png)
 
 ## Features
 - [x] Cartridge slot
@@ -27,21 +27,21 @@ Join our discussions. Cast your vote in our [polls](https://github.com/openretro
 ## Gallery
 
 #### Retro ESP32 Cart
-![Retro ESP32](assets/retroesp32.png)
+![Retro ESP32](https://raw.githubusercontent.com/openretroMGB/OpenRetroMGB/main/assets/retroesp32.png)
 
 #### Arduino *ATmega32U4* Cart
-![Arduino](assets/arduino.png)
+![Arduino](https://raw.githubusercontent.com/openretroMGB/OpenRetroMGB/main/assets/arduino.png)
 
 #### USB C Data Lines
-![USB](assets/usb-c.png)
+![USB](https://raw.githubusercontent.com/openretroMGB/OpenRetroMGB/main/assets/usb-c.png)
 
 # What will you build?
-![What will you build?](assets/blank_cart_option.png)
+![What will you build?](https://raw.githubusercontent.com/openretroMGB/OpenRetroMGB/main/assets/blank_cart_option.png)
 
 ## Trusted Creators
 > Celebrating 10 Years
 
-![Splash](assets/tenyears.png)
+![Splash](https://raw.githubusercontent.com/openretroMGB/OpenRetroMGB/main/assets/tenyears.png)
 
 Over the past 10 years, we have proudly established ourselves as a trusted creator and innovator in the realm of handheld retro gaming. From our early ventures with Arduino and Atmega microcontrollers to our exploration of cutting-edge technologies like ESP32 and Raspberry Pi, our journey has been driven by a relentless pursuit of innovation. With each step, we have strived to enhance the gaming experience for retro enthusiasts. Our Game Boy Pocket PCB embodies our dedication to quality, reliability, and creativity. It represents a culmination of years of expertise, resulting in a product that seamlessly blends the nostalgia of classic gaming with the power and possibilities of modern technology. As we celebrate this milestone, we extend our gratitude to our loyal customers and supporters, who have played an instrumental role in our growth and success. Looking ahead, we remain committed to pushing boundaries, embracing new advancements, and delivering unforgettable gaming experiences to enthusiasts around the world.
 
