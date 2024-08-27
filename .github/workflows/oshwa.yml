@@ -1,0 +1,52 @@
+on:
+  release:
+    types: [published]
+
+env:
+  REPOSITORY_NAME: ${{ github.event.repository.name }}
+
+jobs:
+  certificate:
+    runs-on: ubuntu-latest
+    name: Certificate OSHWA project
+    steps:
+    - uses: nerdyscout/oshwa-action@main
+      with:
+        token: ${{ secrets.OSHWA_TOKEN }}
+        responsiblePartyType: "Individual"
+        responsibleParty: "Eugene Andruszczenko"
+        bindingParty: "Eugene Andruszczenko"
+        country: "Canada"
+        projectName: ${{ env.REPOSITORY_NAME }}
+        projectWebsite: "https://${{ github.repository_owner }}.github.io/${{ env.REPOSITORY_NAME }}"
+        projectVersion: ${{ github.ref_name }}
+        previousVersions: "CA000028"
+        projectDescription: "OpenretroMGB is a new open-source Modular Gaming Board designed for gamers and hobbyists alike. Based on the popular Retro ESP32, this compact and portable board is compatible with Game Boy Pocket form factor and allows customers to either use the prebuilt ESP32 cartridge or design their own. With an easy-to-use modular design, gamers can customize their gaming experience by swapping out cartridges that feature different games or hardware functionalities."
+        primaryType: "Electronics"
+        documentationUrl: "https://github.com/${{ github.repository_owner }}/${{ github.repository }}"
+        hardwareLicense: "CC-BY-SA-4.0"
+        softwareLicense: "CC-BY-SA-4.0"
+        documentationLicense: "CC-BY-SA-4.0"
+        noCommercialRestriction: true
+        noDocumentationRestriction: true
+        openHardwareComponents: true
+        creatorContribution: true
+        noUseRestriction: true
+        redistributedWork: true
+        noSpecificProduct: true
+        noComponentRestriction: true
+        technologyNeutral: true
+        CertificationMarkTerms: |
+          {
+            "accurateContactInformation":{},
+            "complianceWithOfficialCertificationGuidelines": {},
+            "oshwaCertificationMark": {},
+            "violationsEnforcement": {},
+            "responsibility": {
+              "term": "I have the ability to bind those responsible for the certified item to this agreement.",
+              "agreement": true
+            }
+          }
+        relationship: "self"
+        agreementTerms: true
+        parentName: ${{ github.repository_owner }}
